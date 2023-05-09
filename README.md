@@ -45,3 +45,4 @@ Sollte es probleme geben durch das Copy and Paste, bitte ich euch mir auf Discor
 
 ![C02][png5]
 [png5]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/C02.png
+

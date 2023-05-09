@@ -16,22 +16,22 @@ Sollte es probleme geben durch das Copy and Paste, bitte ich euch mir auf Discor
 
 
 # MOULINETTE
-# SHELL 00
+## SHELL00
 - 100%
-![Alt-Text](https://imgur.com/1DewkO5)
+![SHELL00](https://imgur.com/1DewkO5)
 
-# SHELL 01
+## SHELL01
 - 100%
-![Alt-Text](https://imgur.com/a/jp1gZny)
+![SHELL01](https://imgur.com/a/jp1gZny)
 
-# C 00
+## C00
 - 100%
-![Alt-Text](https://imgur.com/a/wQyh5z9)
+![C00](https://imgur.com/a/wQyh5z9)
 
-# C 01
+## C01
 - 100%
-![Alt-Text](https://imgur.com/a/N61yJGP)
+![C01](https://imgur.com/a/N61yJGP)
 
-# C 02
+## C02
 - 75%
-![Alt-Text](https://imgur.com/a/Pb2JLmc)
+![C02](https://imgur.com/a/Pb2JLmc)

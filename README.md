@@ -24,19 +24,19 @@ Sollte es probleme geben durch das Copy and Paste, bitte ich euch mir auf Discor
 ### SHELL01
 - 100%
 
-![SHELL01](https://i.imgur.com/jp1gZny)
+![SHELL01](https://i.imgur.com/jp1gZny.png)
 
 ### C00
 - 100%
 
-![C00](https://i.imgur.com/wQyh5z9)
+![C00](https://i.imgur.com/wQyh5z9.png)
 
 ### C01
 - 100%
 
-![C01](https://i.imgur.com/N61yJGP)
+![C01](https://i.imgur.com/N61yJGP.png)
 
 ### C02
 - 75%
 
-![C02](https://i.imgur.com/Pb2JLmc)
+![C02](https://i.imgur.com/Pb2JLmc.png)

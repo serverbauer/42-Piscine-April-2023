@@ -16,24 +16,29 @@ If there are problems with copy and paste, please write me on Discord and I'll t
 ### SHELL00
 - 100%
 
-![SHELL00](https://github.com/serverbauer/C_Learning/blob/main/Pictures/shell00.png)
+![SHELL00](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/shell00.png)
 
 ### SHELL01
 - 100%
 
-![SHELL01](https://github.com/serverbauer/C_Learning/blob/main/Pictures/shell01.png)
+![SHELL01](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/shell01.png)
 
 ### C00
 - 100%
 
-![C00](https://github.com/serverbauer/C_Learning/blob/main/Pictures/C00.png)
+![C00](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/C00.png)
 
 ### C01
 - 100%
 
-![C01](https://github.com/serverbauer/C_Learning/blob/main/Pictures/C01.png)
+![C01](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/C01.png)
 
 ### C02
 - 75%
 
-![C02](https://github.com/serverbauer/C_Learning/blob/main/Pictures/C02.png)
+![C02](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/C02.png)
+
+### C03
+- 100%
+
+![C03](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/C03.png)

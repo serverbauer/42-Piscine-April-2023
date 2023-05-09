@@ -19,30 +19,24 @@ Sollte es probleme geben durch das Copy and Paste, bitte ich euch mir auf Discor
 ### SHELL00
 - 100%
 
-![SHELL00][png1]
-[png1]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/shell00.png
+![SHELL00][png1][png1]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/shell00.png
 
 ### SHELL01
 - 100%
 
-![SHELL01][png2]
-[png2]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/shell01.png
+![SHELL01][png2][png2]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/shell01.png
 
 ### C00
 - 100%
 
-![C00][png3]
-[png3]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/C00.png
+![C00][png3][png3]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/C00.png
 
 ### C01
 - 100%
 
-![C01][png4]
-[png4]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/C01.png
+![C01][png4][png4]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/C01.png
 
 ### C02
 - 75%
 
-![C02][png5]
-[png5]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/C02.png
-
+![C02][png5][png5]: https://github.com/serverbauer/C_Learning/blob/main/Pictures/C02.png

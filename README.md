@@ -19,7 +19,7 @@ Sollte es probleme geben durch das Copy and Paste, bitte ich euch mir auf Discor
 ### SHELL00
 - 100%
 
-![SHELL00](https://imgur.com/1DewkO5)
+![SHELL00](https://i.imgur.com/1DewkO5.png)
 
 ### SHELL01
 - 100%

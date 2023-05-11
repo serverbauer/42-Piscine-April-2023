@@ -42,3 +42,8 @@ If there are problems with copy and paste, please write me on Discord and I'll t
 - 100%
 
 ![C03](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/C03.png)
+
+### C03
+- 100%
+
+![C03](https://github.com/serverbauer/42-Piscine-April-2023/blob/main/Pictures/C04.png)

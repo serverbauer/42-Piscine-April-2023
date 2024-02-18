@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d,f -print | wc -l
+find . -type f -o -type d | wc -l
